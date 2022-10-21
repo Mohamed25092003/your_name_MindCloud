@@ -1,1 +1,1 @@
-print("mohamed naguib is 19 years old")
+print("mohamed naguib is student")
