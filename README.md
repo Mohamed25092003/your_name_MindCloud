@@ -9,4 +9,4 @@ Electronics and Communication
 Software team
 # Clonning my repo
 you can done my repo by following command:
-git clone 
+git clone https://github.com/Mohamed25092003/your_name_mindcloud.git
